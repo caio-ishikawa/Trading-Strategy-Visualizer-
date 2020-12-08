@@ -5,4 +5,4 @@ The point of this project is to get more comfortable with Tkinter and manipulati
 # I want to add:
   - Buy and sell indicators for each strategy.
   - P/L tracking 
-  - Strategy customization allowing user to change some parameters in a strategy.
+  - Strategy customization allowing user to change some parameters.
